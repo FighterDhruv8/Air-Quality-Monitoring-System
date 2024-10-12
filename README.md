@@ -2,7 +2,7 @@
 This project implements an air quality monitoring system using an 8051 microcontroller.
 The system monitors the temperature and pollution using a temperature and a gas sensor, respectively.
 The data is then displayed on a 16x2 LCD.
-Other contributors: @Axy2003 @Ayush180204 @Manishkumar1062
+Other contributors: [@Axy2003](https://github.com/Axy2003), [@Ayush180204](https://github.com/Ayush180204), and [@Manishkumar1062](https://github.com/Manishkumar1062).
 
 ***Hardware Requirements:***
 - 8051 Microcontroller
